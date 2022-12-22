@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "811608109040",
+    "firebase_url": "https://shoppingapp-feb23-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shoppingapp-feb23",
+    "storage_bucket": "shoppingapp-feb23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811608109040:android:b1f3da8d296f871a763735",
+        "android_client_info": {
+          "package_name": "com.techsam.adminshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811608109040-fjn9tnhr4l44ichabfbsrfk1su397amr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWiWUErXEySb8_s71GVsSxAosDc4aH6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811608109040-fjn9tnhr4l44ichabfbsrfk1su397amr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811608109040:android:acac5631c21aeb2c763735",
+        "android_client_info": {
+          "package_name": "com.techsam.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811608109040-fjn9tnhr4l44ichabfbsrfk1su397amr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWiWUErXEySb8_s71GVsSxAosDc4aH6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811608109040-fjn9tnhr4l44ichabfbsrfk1su397amr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
