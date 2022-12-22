@@ -50,6 +50,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
+
+
                 adapter = new CartAdapter(MainActivity.this,list);
                 LinearLayoutManager llm = new LinearLayoutManager(MainActivity.this,RecyclerView.VERTICAL,false);
                 recyclerView.setLayoutManager(llm);
